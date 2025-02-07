@@ -14,4 +14,4 @@
   <img width="8" />
 
   ##
-  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196248025?v=4" width=105><br><sub>Jeff Soledade</sub>](https://https://github.com/JeffSoledade)
+  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196248025?v=4" width=105><br><sub>Jeff Soledade</sub>](https://github.com/JeffSoledade)
