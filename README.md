@@ -1,7 +1,7 @@
 
 <h1>Jogo número secreto.</h1>
 
-- 🔭 Projeto para curso de lógica da Alura.
+<h3>🔭 Projeto para curso de lógica da Alura.</h3>
 
 #
 <b>Tecnologias utilizadas:</b>
@@ -14,4 +14,6 @@
   <img width="8" />
 
   ##
+  <b>Devs:</b>
+  
   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196248025?v=4" width=105><br><sub>Jeff Soledade</sub>](https://github.com/JeffSoledade)
