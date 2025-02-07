@@ -1,5 +1,5 @@
 
-<h1>Jogo Número secreto.</h1>
+<h1>Jogo número secreto.</h1>
 
 - 🔭 Projeto para curso de lógica da Alura.
 
